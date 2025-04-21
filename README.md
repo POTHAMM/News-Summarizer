@@ -1,4 +1,4 @@
-{# NewsDigest
+NewsDigest
 
 NewsDigest is a Next.js application that summarizes news articles from URLs using AI.
 
@@ -14,14 +14,14 @@ NewsDigest is a Next.js application that summarizes news articles from URLs usin
 Before running the application, ensure you have the following:
 
 -   Node.js installed (version 18 or higher)
--   npm or yarn package manager
+-   npm package manager
 
 ## Getting Started
 
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/POTHAMM/News-Summraizer
     cd <project_directory>
     ```
 
@@ -29,8 +29,6 @@ Before running the application, ensure you have the following:
 
     ```bash
     npm install
-    # or
-    yarn install
     ```
 
 3.  Set up your environment variables:
@@ -45,8 +43,6 @@ Before running the application, ensure you have the following:
 
     ```bash
     npm run dev
-    # or
-    yarn dev
     ```
 
     Open [http://localhost:9002](http://localhost:9002) with your browser to see the result.
